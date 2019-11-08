@@ -95,3 +95,14 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-hello-world)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+Styling
+[x] Complete css
+[x] Inline css
+[x] Global css
+[x] File css
+[x] CSS modules
+[x] Bootstrap
+[x] Gatsby config
+[x] SASS
+[x] Styled components
